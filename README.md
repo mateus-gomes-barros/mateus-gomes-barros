@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Mateus Barros!
 
-<img src="https://i.pinimg.com/564x/dd/43/28/dd4328dbd75d1d46c75b0168093da77c.jpg" alt="Banner city">
+<img src="https://github.com/mateus-gomes-barros/mateus-gomes-barros/blob/main/banner.gif?raw=true" alt="car_trip">
 
 </div>
 
