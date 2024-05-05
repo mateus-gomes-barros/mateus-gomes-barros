@@ -14,7 +14,7 @@
 🔭 Atualmente focado em aprimorar minhas habilidades em desenvolvimento web e software.  
 🌱 Atualmente faço faculdades de Engenharia da Computação e outra de Ciência da Computação. 
 💬 Pergunte-me sobre programação, tecnologia, e qualquer coisa relacionada ao front-end (Em breve Back-End Também!)!  
-⚡ Curiosidade: Sou um viciado em livros de ficção, romance e  terror (E quando tá tudo junto em um só livro, melhor ainda!) nas horas vagas!
+⚡ Curiosidade: Sou um viciado em livros de ficção, romance e  terror (E quando tá tudo junto em um só livro é melhor ainda!) nas horas vagas!
 
 ## ⚙️ Minha Stack Tecnológica
 
