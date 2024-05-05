@@ -1,16 +1,37 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**mateus-gomes-barros/mateus-gomes-barros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou Mateus Barros!
 
-Here are some ideas to get you started:
+<img src="https://i.pinimg.com/564x/dd/43/28/dd4328dbd75d1d46c75b0168093da77c.jpg" alt="Banner estético com árvores e céu estrelado">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🌟 Sobre Mim
+
+🎓 Apaixonado por tecnologia e sempre em busca de novos desafios / taks (principalmente).  
+🔭 Atualmente focado em aprimorar minhas habilidades em desenvolvimento web e software.  
+🌱 Aprendendo constantemente sobre novas tecnologias e melhores práticas na área. Clean Code que fala?!. 
+💬 Pergunte-me sobre programação, tecnologia, e qualquer coisa relacionada ao front-end (Em breve Back-End Também!)!  
+⚡ Curiosidade: Sou um viciado em livros de ficção, romance e  terror (E quando tá tudo junto em um só livro, melhor ainda!) nas horas vagas!
+
+## ⚙️ Minha Stack Tecnológica
+
+\`\`\`text
+Linguagens: Python, JavaScript
+Frameworks: React, Node.js
+Banco de Dados: MySQL, MongoDB
+Ferramentas: Docker, Kubernetes, Git
+\`\`\`
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mateus-gomes-barros&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub Stats">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mateus-gomes-barros&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727" alt="Streak Stats">
+
+</div>
+
