@@ -35,3 +35,5 @@ Ferramentas: Docker, Kubernetes, Git
 
 </div>
 
+![Custom Badge](https://img.shields.io/endpoint?url=<URL-do-seu-endpoint>)
+
