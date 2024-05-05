@@ -10,7 +10,7 @@
 
 ## 🌟 Sobre Mim
 
-🎓 Apaixonado por tecnologia e sempre em busca de novos desafios / taks (principalmente).  
+🎓 Apaixonado por tecnologia e sempre em busca de novos desafios / as tasks (principalmente).  
 🔭 Atualmente focado em aprimorar minhas habilidades em desenvolvimento web e software.  
 🌱 Aprendendo constantemente sobre novas tecnologias e melhores práticas na área. Clean Code que fala?!. 
 💬 Pergunte-me sobre programação, tecnologia, e qualquer coisa relacionada ao front-end (Em breve Back-End Também!)!  
